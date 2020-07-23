@@ -9,7 +9,7 @@
     "license": "MIT",
     "require": {
         "php": "^7.3",
-        "eleganttechnologies/tallandsassy_themehints": "dev-master",
+        "eleganttechnologies/tallandsassy_themehints": "^0.0",
         "fideloper/proxy": "^4.2",
         "fruitcake/laravel-cors": "^2.0",
         "guzzlehttp/guzzle": "^6.3",
@@ -65,8 +65,8 @@
         ]
     },
     "repositories": {
-        "eleganttechnologies/tallandsassy-themehints": {
-            "type": "path",
+        "eleganttechnologies/tallandsassy_themehints": {
+            "type": "vcs",
             "url": "https://github.com/ElegantTechologies/TallAndSassy_ThemeHints.git"
         }
     }
